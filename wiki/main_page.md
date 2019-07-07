@@ -8,5 +8,8 @@ redirect_from: "/"
 
 **Note:**
 
-暫定的に編集可能となっています
+暫定的に編集可能としています。
+Githubアカウントを利用して編集してください。
+
+ライセンスはMITライセンスです。
 [MIT LICENSE](LICENSE)
