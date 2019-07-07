@@ -1,5 +1,5 @@
 # HexBot トップページ
 
-- [マニュアル](../hexbot_manual.md)
-- [ソフトウェアライブラリ](../hexbot_software.md)
-- [ハードウェア](../hexbot_hardware.md)
+- [マニュアル](../wiki/hexbot_manual.md)
+- [ソフトウェアライブラリ](../wiki/hexbot_software.md)
+- [ハードウェア](../wiki/hexbot_hardware.md)
