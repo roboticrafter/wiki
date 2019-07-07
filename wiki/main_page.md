@@ -11,5 +11,9 @@ redirect_from: "/"
 暫定的に編集可能としています。
 Githubアカウントを利用して編集してください。
 
-ライセンスはMITライセンスです。
+**連絡先:**
+mail(暫定): info[ atmark ]mtmsystems.jp
+
+当サイトのライセンスはMITライセンスです。
 [MIT LICENSE](LICENSE)
+
