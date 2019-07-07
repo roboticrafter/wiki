@@ -1,6 +1,6 @@
 # (string) Title of your wiki
-title: git-wiki
-description: Git-Wiki demo and documentation
+title: Roboticraft Wiki Page
+description: 卓上ロボットアームによる自動化の提案
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
@@ -9,14 +9,14 @@ paginate_path: "/blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: http://drassil.github.io/git-wiki/assets/images/1200px-Wikipedia-logo-v2.svg_.png
+logo_url: 
 google_analytics:
 git_branch: gh-pages
 theme: 
 use_github_wiki: false
 use_prose_io: true
 search_engine : "js"
-google_cse_token: 007197903287787072094:8rbvkeqo6qw
+google_cse_token: 
 wiki_folder : "wiki"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 
